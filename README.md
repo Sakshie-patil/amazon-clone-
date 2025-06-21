@@ -2,3 +2,6 @@ I have made a responsive front-end replica of the Amazon homepage built using HT
 Fully static UI with product cards, navbar, and footer mimicking the original layout and styling.
 
 ![Amazon Clone Screenshot](screenshot01.png)
+![Amazon Clone Screenshot](screenshot02.png)
+![Amazon Clone Screenshot](screenshot03.png)
+
